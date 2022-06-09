@@ -1,5 +1,3 @@
-
-#tfff
 import os
 from time import sleep
 
@@ -28,6 +26,7 @@ def calculate(my_score):
         print("You certainly know what happiness is! \nYou're one of those rare types that light up the room and make everybody around them feel better. And that’s because you're content with yourself and don't see others as your competition.")
         print()
 
+#array pattern = [question,option1,option2,option3]
 questions=[
     ["How would you describe your life?","Fortunate","Unpredictable","Boring"],
     ["How do you feel in the morning?","Awful","A bit tired","Refreshed"],
